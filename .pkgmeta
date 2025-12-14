@@ -1,0 +1,5 @@
+package-as: hide-player-frame
+
+manual-changelog:
+  filename: README.md
+  markup-type: markdown
