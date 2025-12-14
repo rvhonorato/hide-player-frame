@@ -3,6 +3,7 @@
 ## Notes: Clean up your UI! Automatically hides the player frame when not in combat or targeting. Toggle with /hpf
 ## Author: Kullah
 ## Version: 0.1.0
+## X-Wago-ID: 56n90mN9
 ## SavedVariables: HidePlayerFrameDB
 
 hide-player-frame.lua
