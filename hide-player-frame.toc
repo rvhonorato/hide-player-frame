@@ -1,0 +1,8 @@
+## Interface: 110207
+## Title: Hide Player Frame
+## Notes: Hide player frame except in combat or when targeting
+## Author: Kullah
+## Version: 1.0
+## SavedVariables: HidePlayerFrameDB
+
+hide-player-frame.lua
