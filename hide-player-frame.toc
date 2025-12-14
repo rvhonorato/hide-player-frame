@@ -1,6 +1,6 @@
 ## Interface: 110207
 ## Title: Hide Player Frame
-## Notes: Hide player frame except in combat or when targeting
+## Notes: Clean up your UI! Automatically hides the player frame when not in combat or targeting. Toggle with /hpf
 ## Author: Kullah
 ## Version: 1.0
 ## SavedVariables: HidePlayerFrameDB
